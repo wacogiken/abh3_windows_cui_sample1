@@ -1,5 +1,4 @@
 # abh3sample1 (Sample project for CANabh3.DLL)
-ROS Package for <a href="https://www.wacogiken.co.jp/agv/abh3.html">ABH3</a> Driver
 
 <table border="0">
     <tr><td><h2>About this</h2>
