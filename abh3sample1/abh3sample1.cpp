@@ -2,7 +2,7 @@
  ******************************************************************************
  * Software License Agreement (BSD License)
  *
- *  Copyright (c) 2021, Waco Giken Co., Ltd.
+ *  Copyright (c) 2022, Waco Giken Co., Ltd.
  *  All rights reserved.
  *
  *  Redistribution and use in source and binary forms, with or without
@@ -35,19 +35,14 @@
 */
 /*
 ******************************************************************************
-@file           single_canABH3.cpp
+@file           abh3sample1.cpp
 ******************************************************************************
 @brief          ABH3用CAN サンプルソフト(アプリケーション)
 ******************************************************************************
-@date           2021.03.03
+@date           2023.04.25
 @author         Y.Ogawa
 @note			1st release
 @note           This sourcecode is based by "single_canABH3.c"
-******************************************************************************
-@date           2023.01.18
-@author         Y.Ogawa
-@note			2nd release
-@note			This code for cana31.dll(ver 1.2.0.0)
 ******************************************************************************
 */
 
